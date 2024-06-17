@@ -1,1 +1,38 @@
 
+a:link
+
+{
+
+color: black;
+
+text-decoration: none;
+
+}
+
+a:visited
+
+{
+
+color: hotpink;
+
+text-decoration: none;
+
+}
+
+a:hover
+
+{
+
+color: magenta;
+
+text-decoration: none;
+
+a:active
+
+{
+
+color: cyan;
+
+text-decoration: none;
+
+}
